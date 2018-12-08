@@ -5,7 +5,7 @@ come back sometime soon!
 
 
 # Team Handbook
-[https://drive.google.com/open?id=1yUGW8bFUqxjCffJvh1r8HIgCFkzlduIe](click here)
+[click here](https://drive.google.com/open?id=1yUGW8bFUqxjCffJvh1r8HIgCFkzlduIe)
 
 # Registration Survey
-[https://docs.google.com/forms/d/17GJBFiTEnStXAgt7qaGyFNZ5Xy9BiFC9ZPA3fE3j4YI/edit](click here)
+[click here](https://goo.gl/forms/pfza47kPGWw3RVpS2)
