@@ -1,7 +1,7 @@
 pumaTECH Robotics
 ---
 
-come back sometime soon!
+coming soon
 
 
 # Team Handbook
