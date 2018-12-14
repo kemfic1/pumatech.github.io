@@ -8,4 +8,4 @@
 [click here](https://firstinspires.org)
 
 # VirginiaFIRST Consent and Release Form
-https://www.firstchesapeake.org/first-programs/frc/consent
+[click here](https://www.firstchesapeake.org/first-programs/frc/consent)
