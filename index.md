@@ -1,4 +1,4 @@
-# Interest Meetign Presentation
+# Interest Meeting Presentation
 [click here](https://docs.google.com/presentation/d/1jORIW2zi28NhY4CeVY4BHvcTujsZN-_tVR4yvmJcdmk/edit?usp=sharing)
 
 Fill out the following items and email them to Kemal or Mr. Kandil before January 5, 2019:
