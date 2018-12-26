@@ -8,3 +8,8 @@ Fill out the following items and email them to [pinnaclefrc@gmail.com](pinnaclef
  - [VirginiaFIRST Consent and Release Form](https://www.firstchesapeake.org/first-programs/frc/consent)
  - [NASA Grant Survey](https://frc-grants.arc.nasa.gov/rcs/survey/entrance.php?year=2019)
      - Make our team look good!
+
+
+programming challenge
+---
+[here](https://github.com/pumatech-robotics/pid-challenge)
