@@ -13,3 +13,4 @@ Fill out the following items and email them to [pinnaclefrc@gmail.com](pinnaclef
 programming challenge
 ---
 [here](https://github.com/pumatech-robotics/pid-challenge)
+<img src="images/Emoticons/cool.png" alt="hi" class="inline"/>
